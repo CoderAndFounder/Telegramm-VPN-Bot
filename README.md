@@ -63,6 +63,4 @@ python main.py
 ```
 
 
-## Команда проекта
-- [Кованов Алексей (Я)](https://t.me/kovanoFFFreelance) — FullStack Engineer
 
